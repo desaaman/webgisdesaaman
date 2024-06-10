@@ -1,0 +1,1 @@
+var json_Narkoba_7 = {"type":"FeatureCollection","name":"Narkoba_7","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","X":"698110","Y":"919321","Jenis":"Narkoba","Penjelasan":"Ditemukan Narkoba"},"geometry":{"type":"Point","coordinates":[112.786457221737365,-7.307183115177987]}}]}
